@@ -1,15 +1,12 @@
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyluldnz&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=eyluldnz&theme=gruvbox&hide_border=true&area=true)
-
 ## I'm a Developer, and Student Every Time :)
 
 - 🌱 I’m currently learning everything 🤣
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<br>
+
+
+
 
 ### Connect with me:
 <p align="left">
@@ -28,6 +25,8 @@
 - [Javascript’te Closure Kavramı](https://medium.com/@eyluldnzcn/javascriptte-closure-kavram%C4%B1-40d9e46b8324?p=40d9e46b8324)
 <!-- BLOG-POST-LIST:END -->
 
+
+
 ### Languages and Tools:
 
 
@@ -38,7 +37,10 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="26" /> 
 
-<br />
-<br />
+<br>
+<br >
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyluldnz&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&locale=en&theme=gruvbox"  width="410" /></p>
+<br><br><br><br><br>
 
