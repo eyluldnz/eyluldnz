@@ -1,14 +1,16 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&theme=gradient) 
 
+## I'm a Developer, and Student Every Time :)
 
+- 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
+<p align="left">
 
-
-[<img align="left" alt="eyluldnz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/eyluldnzcn]
-[<img align="left" alt=" " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://medium.com/@eyluldnzcn]
-
-<br />
+<a href="https://medium.com/@eyluldnzcn" target="blank"><img align="left" alt=" " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="eyluldnz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eyluldnzcn" target="blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="eyluldnz" height="30" width="40" /></a>
+  </p>
+  </br>
 
 
 ### 📕 Latest Medium Blog Posts
@@ -22,7 +24,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
