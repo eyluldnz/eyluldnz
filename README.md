@@ -23,6 +23,7 @@
 
 - [Javascript’in Çalışma Mantığı ve Execution Context](https://medium.com/@eyluldnzcn/javascriptin-%C3%A7al%C4%B1%C5%9Fma-mant%C4%B1%C4%9F%C4%B1-ve-execution-context-59fc75bdb346)
 - [Javascript’te Closure Kavramı](https://medium.com/@eyluldnzcn/javascriptte-closure-kavram%C4%B1-40d9e46b8324?p=40d9e46b8324)
+- [React İle İlgili Temel Kavramlar](https://medium.com/@eyluldnzcn/react-i%CC%87le-i%CC%87lgili-temel-kavramlar-b8e80b92cc2b)
 <!-- BLOG-POST-LIST:END -->
 
 
