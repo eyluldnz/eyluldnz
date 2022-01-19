@@ -7,10 +7,6 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=eyluldnz&label=PROFILE+VIEWS&color=blueviolet)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyluldnz&" alt="eyluldnz" /></p>
-
-
-
 
 ### Connect with me:
 <p align="left">
@@ -44,8 +40,11 @@
 <br>
 <br >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyluldnz&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&locale=en&theme=gruvbox"  width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyluldnz&show_icons=true&locale=en&layout=compact" alt="eyluldnz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&locale=en" alt="eyluldnz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyluldnz&" alt="eyluldnz" /></p>
 <br><br><br><br><br>
 
 
