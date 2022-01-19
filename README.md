@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 <br>
-
+![](https://komarev.com/ghpvc/?username=eyluldnz&color=blueviolet)
 
 
 
@@ -46,5 +46,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyluldnz&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=eyluldnz&show_icons=true&locale=en&theme=gruvbox"  width="410" /></p>
 <br><br><br><br><br>
-![Visitor Count](https://profile-counter.glitch.me/eyluldnz/count.svg)
+
 
