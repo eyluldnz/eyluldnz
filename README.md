@@ -11,9 +11,11 @@
 
 ### Connect with me:
 <p align="left">
+  
+  [![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/eyluldnzcn/)
 
-<a href="https://medium.com/@eyluldnzcn" target="blank"><img align="left" alt=" " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="eyluldnz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/eyluldnzcn" target="blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="eyluldnz" height="30" width="40" /></a>
+[![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)]("https://medium.com/@eyluldnzcn")
+
   </p>
   </br>
 
