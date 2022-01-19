@@ -14,7 +14,7 @@
   
   [![linkedin badge](https://img.shields.io/badge/Eylul_Deniz_Can-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/eyluldnzcn/)
 
-[![medium badge](https://img.shields.io/badge/Eylul_Deniz_Can-30302f?style=flat&logo=medium)]("https://medium.com/@eyluldnzcn")
+[![medium badge](https://img.shields.io/badge/Eylul_Deniz_Can-30302f?style=flat&logo=medium)](https://medium.com/@eyluldnzcn)
 
   </p>
   </br>
